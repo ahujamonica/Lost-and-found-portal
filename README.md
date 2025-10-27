@@ -1,5 +1,7 @@
 # Welcome to your Lovable project
 
+**VERCEL**: https://lost-and-found-portal-phi.vercel.app/
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/2a69c602-201e-4d85-a0df-d2d17937d65f
